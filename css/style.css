@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: white;
+    padding: 20px 15px;
+    
+}
+
+
+header h1{
+    color: red;
+    font-size: x-large;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 0;
+
+}
+.primer_com{
+font-size: large;
+padding: 0 20px;
+color: crimson;
+text-align: start;
+letter-spacing: 1px;
+}
+header a{
+    text-decoration:underline;
+    color: darksalmon;
+    padding: 10px 15px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+
+}
+.seccion{
+    background-color: white;
+    padding: 40px;
+    margin: 55px 90px;
+    border-radius: 10px;
+    border: 1px brown solid;
+}
+.seccion h2{
+    margin-bottom: 20px;
+
+}
+.seccion p{
+    line-height: 19px;
+    margin-bottom: 15px;
+    font-size: x-large;
+    line-height: 25px;
+}
+.segseccion{
+    padding: 20px 40px;
+    background-color: ghostwhite;
+    margin: 55px 90px;
+    border-radius: 10px;
+    border: 1px brown solid;
+}
+.segseccion p{
+     line-height: 19px;
+    margin-bottom: 15px;
+    font-size: x-large;
+    line-height: 25px;
+}
+.terseccion{
+    margin: 55px 90px;
+    padding: 10px 40px ;
+    background-color:gray;
+
+
+}
+
